@@ -11,3 +11,4 @@ Pre-compiled programs for Linux in a ZIP folder.
 ## Compilers
 6. SjASM Plus
 7. ACME
+8. SjASM (Normal SjASM. not SjASM Plus.)
